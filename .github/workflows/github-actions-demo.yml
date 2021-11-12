@@ -1,7 +1,7 @@
 name: GitHub Actions Demo
 on: [push, pull_request]
 jobs:
-  Explore-GitHub-Actions-v3:
+  Explore-GitHub-Actions-v4:
     runs-on: ubuntu-latest
     steps:
       - name: pulling github repo
